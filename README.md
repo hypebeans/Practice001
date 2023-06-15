@@ -5,11 +5,11 @@
 
 ## 使い方
 1. ターミナルを起動する
-1. `mkdir ~/Documents/iOSPractice`と入力して新しいフォルダを作成する
-1. `cd ~/Documents/iOSPractice`と入力してディレクトリを移動する
-1. `git clone https://github.com/MaskerDog/Practice001.git`を実行してリポジトリをローカルにクローンする
-1. `open Practice001/Practice001.xcodeproj/`でプロジェクトを開く
-1. シミュレーターを起動する
+1. ターミナルで`mkdir ~/Documents/iOSPractice`と入力して新しいフォルダを作成する
+1. 上記を実行後、ターミナルに`cd ~/Documents/iOSPractice`と入力してディレクトリを移動する
+1. ディレクトリを移動したら、ターミナルに`git clone https://github.com/MaskerDog/Practice001.git`と入力して、リポジトリをローカルにクローンする（自分のPCにダウンロードするようなもの）
+1. クローンができたら`open Practice001/Practice001.xcodeproj/`と入力してXcodeでプロジェクトを開く
+1. Xcodeからシミュレーターを起動する
 1. 次の画像が表示されることを確認する
 
 <kbd><img width="135" alt="image" src="https://github.com/MaskerDog/Practice001/assets/37284851/9ee30b2c-1ba4-4e28-b916-e4327938f27d"></kbd>
